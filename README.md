@@ -11,13 +11,13 @@
 
 ## Integrantes
 
-Bernardo Geo
-Bruna de Paula
-Gabriel Galvão 
-Gabriel Paulino
-Luiza Ayumi
-Pedro Vitor
-Rafael Rabelo
+Bernardo Geo,
+Bruna de Paula,
+Gabriel Galvão,
+Gabriel Paulino,
+Luiza Ayumi,
+Pedro Vitor,
+Rafael Rabelo,
 
 ## Orientador
 
