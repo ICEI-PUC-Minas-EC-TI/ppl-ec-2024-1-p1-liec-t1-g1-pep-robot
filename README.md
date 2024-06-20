@@ -1,25 +1,27 @@
 # TÍTULO DO PROJETO
 
-`CAMPUS/UNIDADE`
+`PUC-Minas Praça da Liberdade`
 
-`CURSO`
+`Engenharia de Computação`
 
-`SEMESTRE`
+`1º Periodo`
 
-`DISCIPLINA`
+`Laboratória de Introdução à Engenharia de Computação`
 
 
 ## Integrantes
 
-* Nome completo do aluno 1
-* Nome completo do aluno 2
-* Nome completo do aluno 3
-* Nome completo do aluno 4
-* Nome completo do aluno 5
+Bernardo Geo
+Bruna de Paula
+Gabriel Galvão 
+Gabriel Paulino
+Luiza Ayumi
+Pedro Vitor
+Rafael Rabelo
 
 ## Orientador
 
-* Nome completo do professor 1
+Felipe Lara
 
 ## Resumo
 
