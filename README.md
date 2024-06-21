@@ -25,7 +25,13 @@ Felipe Lara
 
 ## Resumo
 
-Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
+um robo interativo com diversas funcionalidades incluindo
+- dancar
+- um tradutor
+- fazer conats basicas
+- dizer o horario
+- a previsao do tempo
+tudo isso a um clique pelo smartphone
 
 # Código (do arduino ou esp32)
 
