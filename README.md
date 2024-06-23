@@ -25,13 +25,7 @@ Felipe Lara
 
 ## Resumo
 
-um robo interativo com diversas funcionalidades incluindo
-- dancar
-- um tradutor
-- fazer conats basicas
-- dizer o horario
-- a previsao do tempo
-tudo isso a um clique pelo smartphone
+O Projeto Robô PEP visa desenvolver um sistema interativo de controle para um robô utilizando tecnologia Bluetooth, permitindo diversas funcionalidades que proporcionam interação e utilidade. O robô será capaz de realizar saudações, traduções de palavras, danças coreografadas, cálculos matemáticos simples, previsão do tempo e exibir as horas atuais. Cada funcionalidade será acessada através de um aplicativo móvel intuitivo, proporcionando uma experiência de usuário envolvente e educativa.
 
 # Código (do arduino ou esp32)
 
