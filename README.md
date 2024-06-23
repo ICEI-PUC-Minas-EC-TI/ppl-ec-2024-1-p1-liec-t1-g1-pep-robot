@@ -37,7 +37,7 @@ O Projeto Robô PEP visa desenvolver um sistema interativo de controle para um r
 
 # Apresentação
 
-<ol>
+
 ![image](https://github.com/ICEI-PUC-Minas-EC-TI/ppl-ec-2024-1-p1-liec-t1-pep-robot/assets/169680570/db1429c0-974e-4f9a-924c-8369e8a70e53) 
 
 
