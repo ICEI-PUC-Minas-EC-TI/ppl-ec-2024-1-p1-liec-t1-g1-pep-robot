@@ -6,3 +6,6 @@
 ![0](https://github.com/ICEI-PUC-Minas-EC-TI/ppl-ec-2024-1-p1-liec-t1-pep-robot/assets/169680570/d44e68db-2764-4fb3-8b45-87a0d0644935)
 ![0](https://github.com/ICEI-PUC-Minas-EC-TI/ppl-ec-2024-1-p1-liec-t1-pep-robot/assets/169680570/79154ec9-3cb3-441a-be9a-3a73bd50617a)
 ![0](https://github.com/ICEI-PUC-Minas-EC-TI/ppl-ec-2024-1-p1-liec-t1-pep-robot/assets/169680570/a0c8331d-7ebe-4823-9000-72964f678ecc)
+![0](https://github.com/ICEI-PUC-Minas-EC-TI/ppl-ec-2024-1-p1-liec-t1-pep-robot/assets/169680570/a73bdd53-ef4f-4453-a97c-bbd1886d5e07)
+![0](https://github.com/ICEI-PUC-Minas-EC-TI/ppl-ec-2024-1-p1-liec-t1-pep-robot/assets/169680570/c51fe16e-0834-43c0-af15-97bc128840ac)
+![0](https://github.com/ICEI-PUC-Minas-EC-TI/ppl-ec-2024-1-p1-liec-t1-pep-robot/assets/169680570/32bb8f98-4200-4f99-9202-5ec964c7fee0)
