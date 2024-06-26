@@ -28,7 +28,8 @@ as telas do aplicativo foram feitas todas utilizando nossos conhecimentos adquir
 
 ### Código
 
-o codigo foi feito em partes, para cada componente e foi dividido em duas partes, os codigos do app inventor, e os codigos do robo que foram desenvovidos separadamente e no final, juntados em um so codigo, para o robo 
+O código foi desenvolvido em partes para cada componente do sistema. Foi dividido em duas partes principais: os códigos do App Inventor (utilizados para criar o aplicativo móvel) e os códigos do robô (programados para executar as funcionalidades controladas pelo aplicativo). As partes desenvolvidas separadamente foram então integradas em um único código para o robô.
+
 
 ## Desenvolvimento do Hardware
 
