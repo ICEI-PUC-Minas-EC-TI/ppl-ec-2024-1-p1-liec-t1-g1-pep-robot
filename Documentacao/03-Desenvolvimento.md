@@ -3,22 +3,31 @@
 
 ESP32:
 Descrição: Microcontrolador responsável pelo controle geral do robô e pela comunicação com o aplicativo móvel via Wi-Fi.
+
 Cabo Mini USB:
 Descrição: Utilizado para alimentar e programar o ESP32.
+
 HC-06 Bluetooth:
 Descrição: Módulo de comunicação Bluetooth para permitir a conexão sem fio entre o robô e o aplicativo móvel.
+
 HC-SR04 Sensor Ultrassônico:
 Descrição: Sensor utilizado para medir distâncias, ajudando o robô a detectar obstáculos e navegar autonomamente.
+
 Mini Servo SG90 9g (x6):
 Descrição: Seis pequenos motores servo utilizados para movimentar as partes do robô, permitindo que ele se mova e execute ações específicas.
+
 Buzzer 5 Volts:
 Descrição: Dispositivo de áudio utilizado para emitir sons ou alertas durante a operação do robô.
+
 Cabos Fêmea-Fêmea:
 Descrição: Utilizados para conectar os diversos componentes eletrônicos de forma prática e segura.
+
 Caixa de Pilhas 4AA (6 Volts):
 Descrição: Utilizada para abrigar as pilhas que alimentam o robô, fornecendo a energia necessária para os componentes eletrônicos.
+
 4 Pilhas de 1.5 Volts AA:
 Descrição: Pilhas utilizadas na caixa de pilhas para fornecer energia ao robô.
+
 Mini Chave de Fenda Phillips (Cross Screw Driver):
 Descrição: Ferramenta utilizada para montar e ajustar os componentes do robô.
 
