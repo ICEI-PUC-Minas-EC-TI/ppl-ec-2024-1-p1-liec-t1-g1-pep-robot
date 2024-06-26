@@ -40,8 +40,55 @@ Descreva aqui como foi o desenvolvimento do trabalho, destacando cada uma das et
 
 ### Interface
 
-Descreva o desenvolvimento das telas do aplicativo.
-as telas do aplicativo foram feitas todas utilizando nossos conhecimentos adquiridos em nossas aulas de laboratorio pelo aplicativo do MIT app inventor.
+
+O desenvolvimento das telas do aplicativo foi realizado utilizando o MIT App Inventor, aplicando os conhecimentos adquiridos em nossas aulas de laboratório
+Tela de Conexão Bluetooth:
+
+Descrição: Esta tela é a primeira vista ao abrir o aplicativo. Ela permite que o usuário inicie a conexão Bluetooth com o robô.
+Componentes:
+Botão "Conectar": Inicia a busca por dispositivos Bluetooth disponíveis para conexão.
+Lista de Dispositivos: Mostra os dispositivos encontrados para que o usuário selecione o robô.
+Menu Principal:
+
+Descrição: Após a conexão bem-sucedida, o usuário é direcionado para o menu principal, onde pode escolher entre diversas funcionalidades disponíveis.
+Componentes:
+Botões de Opções: Cada botão representa uma funcionalidade do robô, como Saudação, Tradutor, Dancinha, Calculadora, Previsão do Tempo e Horário.
+Ícones e Nomes: Cada funcionalidade é representada por um ícone e um nome para fácil identificação.
+Tela de Saudação:
+
+Descrição: Ao selecionar "Saudação" no menu principal, esta tela permite que o usuário veja o robô executar uma saudação visual ou auditiva.
+Componentes:
+Botão "Executar Saudação": Inicia a sequência de saudação no robô.
+Vídeo ao Vivo: Mostra o robô em tempo real executando a saudação.
+Tela de Tradutor:
+
+Descrição: Nesta tela, o usuário pode inserir uma palavra para ser traduzida pelo robô.
+Componentes:
+Campo de Texto: Permite ao usuário digitar a palavra a ser traduzida.
+Botão "Traduzir": Inicia o processo de tradução, exibindo o resultado na tela e o robô pronunciando a tradução.
+Tela de Dancinha:
+
+Descrição: Ao escolher "Dancinha" no menu, esta tela exibe opções para iniciar uma coreografia no robô.
+Componentes:
+Lista de Coreografias: Mostra diferentes opções de danças disponíveis.
+Botão "Executar Dança": Inicia a dança selecionada no robô.
+Tela de Calculadora:
+
+Descrição: Permite ao usuário realizar cálculos simples utilizando o robô como assistente.
+Componentes:
+Campo de Entrada: Onde o usuário digita a expressão matemática.
+Botão "Calcular": Inicia o cálculo e exibe o resultado na tela, além do robô falar o resultado.
+Tela de Previsão do Tempo:
+
+Descrição: Mostra a previsão do tempo atual para uma localização específica.
+Componentes:
+Campo de Localização: O usuário insere a cidade ou código postal para verificar a previsão.
+Botão "Obter Previsão": Inicia a busca pela previsão do tempo, exibindo as informações na tela e no robô.
+Tela de Horário:
+
+Descrição: Informa as horas atuais, utilizando o robô para falar a hora.
+Componentes:
+Botão "Ver Horário": Inicia a exibição do horário atual pelo robô.
 
 ### Código
 
@@ -52,7 +99,8 @@ O código foi desenvolvido em partes para cada componente do sistema. Foi dividi
 
 ### Montagem
 
-A montagem, foi feita iniciando pela carcaça do robo, com a impressora 3d. Finalizado isso prosseguimos, para encaixar os servo motores e a miniprotoboard dentro do robo, depois configuramos o buzzer e o sensor de distancia como os olhos do robo.
+ A primeira etapa do projeto envolveu a criação da carcaça do robô utilizando uma impressora 3D. Com a carcaça impressa e pronta, a próxima etapa foi encaixar os servo motores SG90 9g. Utilizando parafusos e a mini chave de fenda Phillips, fixamos os seis servo motores nos locais designados dentro da carcaça. Conectamos os cabos dos servos à mini protoboard, garantindo que todos os motores estivessem corretamente ligados ao ESP32 para controle. A mini protoboard foi colocada dentro da carcaça do robô para facilitar as conexões elétricas entre os componentes.  A mini protoboard foi fixada em uma posição central dentro da carcaça para otimizar o espaço e facilitar as conexões. Utilizando cabos fêmea-fêmea, conectamos os servos, o buzzer, o sensor ultrassônico e o módulo Bluetooth à protoboard, que por sua vez estava conectada ao ESP32. O buzzer de 5 volts foi configurado para emitir sons e alertas durante a operação do robô. O buzzer foi fixado na parte superior da carcaça, em um local onde o som pudesse ser claramente ouvido. Conectamos o buzzer à mini protoboard e ao ESP32, configurando o pino de controle no código para permitir a emissão de sons. O sensor ultrassônico HC-SR04 foi instalado como os "olhos" do robô, permitindo a detecção de obstáculos.
+
 
 ### Desenvolvimento do Código
 
