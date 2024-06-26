@@ -1,18 +1,26 @@
 
 # Materiais
 
-Os materiais utilizados no projeto foram:
-- impressora 3d para a carcaça do robo
-- esp32 
-- mini usb cabo
-- hc06 bluetooth
-- hcsr04 sensor ultra sound
-- mini servo sg90 9g x6
-- 5 volts buzzer 
-- cabos femea femea 
-- pilha 4aa (6volts) battery case
-- 4 pilhas de 1.5 volts aa
-- mini cross screw driver
+ESP32:
+Descrição: Microcontrolador responsável pelo controle geral do robô e pela comunicação com o aplicativo móvel via Wi-Fi.
+Cabo Mini USB:
+Descrição: Utilizado para alimentar e programar o ESP32.
+HC-06 Bluetooth:
+Descrição: Módulo de comunicação Bluetooth para permitir a conexão sem fio entre o robô e o aplicativo móvel.
+HC-SR04 Sensor Ultrassônico:
+Descrição: Sensor utilizado para medir distâncias, ajudando o robô a detectar obstáculos e navegar autonomamente.
+Mini Servo SG90 9g (x6):
+Descrição: Seis pequenos motores servo utilizados para movimentar as partes do robô, permitindo que ele se mova e execute ações específicas.
+Buzzer 5 Volts:
+Descrição: Dispositivo de áudio utilizado para emitir sons ou alertas durante a operação do robô.
+Cabos Fêmea-Fêmea:
+Descrição: Utilizados para conectar os diversos componentes eletrônicos de forma prática e segura.
+Caixa de Pilhas 4AA (6 Volts):
+Descrição: Utilizada para abrigar as pilhas que alimentam o robô, fornecendo a energia necessária para os componentes eletrônicos.
+4 Pilhas de 1.5 Volts AA:
+Descrição: Pilhas utilizadas na caixa de pilhas para fornecer energia ao robô.
+Mini Chave de Fenda Phillips (Cross Screw Driver):
+Descrição: Ferramenta utilizada para montar e ajustar os componentes do robô.
 
 # Desenvolvimento
 
@@ -39,7 +47,13 @@ A montagem, foi feita iniciando pela carcaça do robo, com a impressora 3d. Fina
 
 ### Desenvolvimento do Código
 
-o codigo no arduino-ide foi feito em parts, iniciando pela movimentacao dos servo motores, depois disso configuramos o sensor ultrassonico, e o buzzer, e finalmente configuramos o robo para dancar, com um codigo ja semipronto encontrado no github.
+Movimentação dos Servo Motores: Inicialmente, focamos na configuração e controle dos servo motores, garantindo que eles respondessem corretamente aos comandos.
+
+Configuração do Sensor Ultrassônico: Após a movimentação dos servo motores estar funcionando adequadamente, configuramos o sensor ultrassônico. Este sensor foi essencial para medir a distância até objetos próximos e integrar essa informação ao comportamento do robô.
+
+Integração do Buzzer: Em seguida, adicionamos o buzzer ao projeto, permitindo que o robô emitisse sons em resposta a eventos específicos, como a detecção de obstáculos pelo sensor ultrassônico.
+
+Programação da Dança do Robô: Por fim, configuramos o robô para realizar uma dança. Para isso, utilizamos um código semipronto encontrado no GitHub, que foi modificado e ajustado conforme necessário para nosso projeto.
 
 ## Comunicação entre App e Hardware
 
