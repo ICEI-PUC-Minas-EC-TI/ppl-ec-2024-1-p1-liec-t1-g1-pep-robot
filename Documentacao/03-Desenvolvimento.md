@@ -32,8 +32,33 @@ Mini Chave de Fenda Phillips (Cross Screw Driver):
 Descrição: Ferramenta utilizada para montar e ajustar os componentes do robô.
 
 # Desenvolvimento
+Definição do Projeto e Equipe:
 
-Descreva aqui como foi o desenvolvimento do trabalho, destacando cada uma das etapas necessárias para chegar até a solução final.
+Objetivo: Criar um robô interativo controlado via Bluetooth através de um aplicativo móvel.
+Planejamento e Especificação:
+
+Requisitos Funcionais: Identificação das funcionalidades principais do robô, como saudação, tradução, dança, calculadora, previsão do tempo e exibição de horário.
+Requisitos Técnicos: Definição das tecnologias a serem utilizadas, como Arduino IDE para programação do robô, App Inventor para desenvolvimento do aplicativo móvel, e integração via Bluetooth para comunicação entre o aplicativo e o robô.
+Desenvolvimento dos Componentes Individuais:
+
+Programação do Arduino:
+Movimentação dos Servo Motores: Implementação inicial para controlar os movimentos físicos do robô.
+Configuração do Sensor Ultrassônico: Integração para permitir detecção de objetos próximos.
+Ativação do Buzzer: Implementação para emitir sons ou alertas conforme necessário.
+Coreografia de Dança: Adaptação de um código semipronto encontrado no GitHub para implementar movimentos coreografados.
+Desenvolvimento do Aplicativo Móvel:
+
+Design das Telas: Criação das interfaces visuais usando o App Inventor para permitir interação intuitiva com o robô.
+Conexão Bluetooth: Implementação da funcionalidade de conexão Bluetooth para estabelecer comunicação bidirecional entre o aplicativo e o robô.
+Programação das Funcionalidades: Desenvolvimento dos módulos para cada funcionalidade, como saudação, tradução, dança, calculadora, previsão do tempo e exibição de horário.
+Integração e Testes:
+
+Testes Individuais: Verificação de cada componente separadamente para garantir que funcionem conforme o esperado.
+Testes de Integração: União do aplicativo e do código do Arduino para testar a interação completa entre o robô e o aplicativo.
+Ajustes e Correções: Identificação e correção de bugs, ajustes de desempenho e melhorias na interface de usuário.
+Implementação Final e Documentação:
+
+Versão Final do Código: Integração final do código do robô e do aplicativo.
 
 
 ## Desenvolvimento do Aplicativo
