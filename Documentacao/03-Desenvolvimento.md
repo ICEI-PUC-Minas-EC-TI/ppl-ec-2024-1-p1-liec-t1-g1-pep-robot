@@ -120,7 +120,7 @@ Botão "Ver Horário": Inicia a exibição do horário atual pelo robô.
 O código foi desenvolvido em partes para cada componente do sistema. Foi dividido em duas partes principais: os códigos do App Inventor (utilizados para criar o aplicativo móvel) e os códigos do robô (programados para executar as funcionalidades controladas pelo aplicativo). As partes desenvolvidas separadamente foram então integradas em um único código para o robô.
 
 
-## Desenvolvimento do Hardware
+
 
 ### Montagem
 
@@ -139,4 +139,4 @@ Programação da Dança do Robô: Por fim, configuramos o robô para realizar um
 
 ## Comunicação entre App e Hardware
 
-Descreva como foi o processo de comunicação entre App e arduino/ESP.
+O projeto Robô PEP envolveu o desenvolvimento de código tanto para Arduino/ESP quanto para um aplicativo móvel, utilizando Bluetooth para comunicação. Foram implementadas diversas funcionalidades, como controle dos motores, sensor ultrassônico, buzzer e dança programada. A integração desses componentes permitiu interações remotas e em tempo real, proporcionando uma experiência interativa e educativa aos usuários. O processo incluiu testes extensivos para garantir a estabilidade e eficiência da comunicação entre os dispositivos, assegurando um funcionamento consistente e confiável do robô em diversas condições de uso.
